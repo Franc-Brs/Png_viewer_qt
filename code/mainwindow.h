@@ -24,7 +24,7 @@ public:
     void cambia_immagine (QString nome_file);
 
     void manage_cband (QString col_r="", QString col_g="", QString col_b="");
-    void manage_cband_2 (QString col_r="", QString col_g="", QString col_b="");
+    //void manage_cband_2 (QString col_r="", QString col_g="", QString col_b="");
 
 private slots:
     void on_pushButton_clicked();
