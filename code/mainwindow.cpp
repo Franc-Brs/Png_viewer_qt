@@ -161,6 +161,7 @@ void MainWindow::manage_cband (QString col_r, QString col_g, QString col_b)
     immagine_gi->setPixmap(QPixmap::fromImage(c_image));
 }
 
+/*
 void MainWindow::manage_cband_2 (QString col_r, QString col_g, QString col_b)
 {
 
@@ -195,4 +196,4 @@ void MainWindow::manage_cband_2 (QString col_r, QString col_g, QString col_b)
     immagine_gi->setPixmap(QPixmap::fromImage(c_image));
 }
 
-
+*/
